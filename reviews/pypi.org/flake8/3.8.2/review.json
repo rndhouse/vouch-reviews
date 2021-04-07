@@ -1,0 +1,20 @@
+{
+  "package": {
+    "name": "flake8",
+    "version": "3.8.2",
+    "registry": {
+      "host_name": "pypi.org"
+    },
+    "registry_human_url": "https://pypi.org/pypi/flake8/3.8.2/",
+    "archive_url": "https://files.pythonhosted.org/packages/10/b1/ef9620afac4a8794e631e54bbcd2f70257dee04693ea8fd959d57b89714e/flake8-3.8.2.tar.gz",
+    "archive_hash": "d360d82f5cdda9b1e0949a35a4656a7067d428720527f6c2b3a6d9ca5ced07f3"
+  },
+  "comments": [
+    {
+      "summary": "pass",
+      "file": "setup.py",
+      "description": "Review complete for file or directory contents.",
+      "selection": null
+    }
+  ]
+}
